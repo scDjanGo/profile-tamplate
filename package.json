@@ -1,0 +1,15 @@
+{
+  "name": "tp.m.v.1",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass styles/scss/main.scss styles/css/main.css --watch"
+  },
+  "author": "scDjanGo",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.7"
+  }
+}
